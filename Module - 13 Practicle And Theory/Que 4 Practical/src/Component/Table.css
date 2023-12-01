@@ -1,0 +1,17 @@
+.main{
+    margin-top: 10px;
+    height: 310px;
+    border: 1px solid silver;
+}
+form{
+    margin-top: 15px;
+    margin-left: 15px;
+    width: 400px;
+}
+.have{
+    margin-top: -60px;
+    margin-left: 86%;
+}
+.hav{
+    width: 150px;
+}
