@@ -1,0 +1,49 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Jainish Patel",
+      "email": "jainish@gmail.com",
+      "password": "Jainish123*",
+      "mobile": "1122334455",
+      "gender": "Male",
+      "country": "India"
+    },
+    {
+      "name": "Mukesh",
+      "email": "mukesh@gmail.com",
+      "mobile": "123467890",
+      "password": "mukesh123",
+      "gender": "Male",
+      "country": "India",
+      "id": "1701369912716"
+    },
+    {
+      "name": "Shivam",
+      "email": "shivam@gmail.com",
+      "mobile": "135468588",
+      "password": "shivu",
+      "gender": "Male",
+      "country": "India",
+      "id": "1701370013982"
+    },
+    {
+      "name": "Deepak",
+      "email": "deepak@gmail.com",
+      "mobile": "6515658",
+      "password": "khfbvh",
+      "gender": "Male",
+      "country": "India",
+      "id": "1701370343910"
+    },
+    {
+      "name": "Shivam Kuhikar ",
+      "email": "shivamkuhikar@gmail.com",
+      "mobile": "9737495986",
+      "password": "1234",
+      "gender": "Male",
+      "country": "India",
+      "id": "1701446301340"
+    }
+  ]
+}
